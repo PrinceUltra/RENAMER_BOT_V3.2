@@ -15,15 +15,15 @@
 
     ],
 
-    "repository": "https://github.com/lntechnical2/RENAMER_BOT_V3",
+    "repository": "https://github.com/prince_ultra/RENAMER_BOT_V3",
 
-    "success_url": "https://telegram.dog/lntechnical",
+    "success_url": "https://t.me/prince_ultra",
 
     "env": {
 
         "CHANNEL": {
 
-            "description": "Channel or Group user Name With @",
+            "description": "@Manga_Paradox",
 
             "required":true
 
@@ -33,7 +33,7 @@
 
         "STRING": {
 
-            "description": "Pyrogram String Session Use  @genStr_Bot",
+            "description": ".",
 
             "required": true
 
@@ -41,7 +41,7 @@
 
         "API_ID": {
 
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "24125441",
 
             "required": true
 
@@ -49,7 +49,7 @@
 
         "API_HASH": {
 
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "0cebf5d00afb7cf120bfcb39a4afbab5",
 
             "required": true
 
@@ -57,7 +57,7 @@
 
         "TOKEN": {
 
-            "description": "Your Bot Token From @BotFather",
+            "description": "7796785435:AAGeOejDJpt7jAsKvEM4mMa-sVj-sCoTIQ4",
 
             "required": true
 
@@ -65,7 +65,7 @@
 
         "ADMIN": {
 
-            "description":"Add Your User ID",
+            "description":"6827835777",
 
             "required": true
 
@@ -73,13 +73,13 @@
 
         "DB_URL":{
 
-             "description":"Database Url Get It From Mongo DB"
+             "description":"mongodb+srv://ultrax8008:Arfath78@cluster0.bx3m3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
         },
 
         "DB_NAME":{
 
-               "description":"Database Name ",
+               "description":"Autorenamer logs",
 
                "required":true
 
@@ -87,7 +87,7 @@
 
         "LOG_CHANNEL":{
 
-             "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
+             "description":"-1002415099320",
 
              "required": true
 
