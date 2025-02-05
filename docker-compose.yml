@@ -8,5 +8,5 @@ services:
       - TOKEN=${7796785435:AAGeOejDJpt7jAsKvEM4mMa-sVj-sCoTIQ4}
       - DB_NAME=${Autorenamer logs}
       - DB_URL=${mongodb+srv://ultrax8008:Arfath78@cluster0.bx3m3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0}
-      - CHANNEL=${-1002415099320}
+      - CHANNEL=${@Manga_Paradox}
       - ADMIN=${6827835777, 6367731566}
