@@ -73,7 +73,7 @@
 
         "DB_URL":{
 
-             "description":"mongodb+srv://ultrax8008:Arfath78@cluster0.bx3m3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+             "description":"mongodb+srv://ultrax8008:password@cluster0.bx3m3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
         },
 
